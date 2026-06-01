@@ -8,6 +8,5 @@ in a FIFO order.
 **Binary Search tree:** Trees are being used for searching the task completed in the list or not . 
 **Template:** Making the task executor generic for different task types.
 
-**Graphics:**For the graphics , we have used GUI **Raylib** library. [Without_GUI[1].cpp](https://github.com/user-attachments/files/28472743/Without_GUI.1.cpp)
-[Project_with_GUI_Integrated.cpp[1].txt](https://github.com/user-attachments/files/28472739/Project_with_GUI_Integrated.cpp.1.txt)
+**Graphics:**For the graphics , we have used GUI **Raylib** library. 
 
